@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Laixiaonv/test.git/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Laixiaonv/test.git/static/js/main.1ec8e301.chunk.js",
+    "main.js.map": "/Laixiaonv/test.git/static/js/main.1ec8e301.chunk.js.map",
+    "runtime-main.js": "/Laixiaonv/test.git/static/js/runtime-main.b35d0dd8.js",
+    "runtime-main.js.map": "/Laixiaonv/test.git/static/js/runtime-main.b35d0dd8.js.map",
+    "static/js/2.767f27ed.chunk.js": "/Laixiaonv/test.git/static/js/2.767f27ed.chunk.js",
+    "static/js/2.767f27ed.chunk.js.map": "/Laixiaonv/test.git/static/js/2.767f27ed.chunk.js.map",
+    "static/js/3.063f1535.chunk.js": "/Laixiaonv/test.git/static/js/3.063f1535.chunk.js",
+    "static/js/3.063f1535.chunk.js.map": "/Laixiaonv/test.git/static/js/3.063f1535.chunk.js.map",
+    "index.html": "/Laixiaonv/test.git/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Laixiaonv/test.git/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.767f27ed.chunk.js.LICENSE.txt": "/Laixiaonv/test.git/static/js/2.767f27ed.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Laixiaonv/test.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b35d0dd8.js",
+    "static/js/2.767f27ed.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.1ec8e301.chunk.js"
+  ]
+}
